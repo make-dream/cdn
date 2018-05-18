@@ -98,7 +98,7 @@
 <script>
   let flag = 0;
   //    let string ='';
-  let arr = ['省网设备', '城域网设备', 'IDC设备', '骨干网设备','国际设备'];
+  let arr = ['省网设备', '城域网设备', 'IDCE设备', '骨干网设备','国际设备'];
   import {edittables,config,showDataSelection} from '../../assets/js/data'
   import modal from '../../components/common/modal.vue'
   export default{
